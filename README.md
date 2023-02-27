@@ -3,7 +3,7 @@ This is a Markdown template for developing a business model using the Business M
 Add logo of the business here. Remove this description.
 
 ## Summary of Business
-Add a description that is about the length of an evelvator pitch for the business.
+Add a description that is about the length of an elevator pitch for the business.
 
 ## Website of Business
 Add here a link to your website design.
